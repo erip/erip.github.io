@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Uhhhh what am I supposed to write here?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
+My name is Elijah Rippeth (he/him). I'm a computational linguist interested in multilingual systems, but have primarily focused on machine translation.  
