@@ -18,21 +18,27 @@ Education
 Work experience
 ======
 * 2015-Present: Computational Linguist, [MITRE](https://www.mitre.org/)
-  
+
+{% if site.publications.size != 0 %}    
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+{% endif %}
+
+{% if site.talks.size != 0 %}  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+{% endif %}
   
+{% if site.teaching.size != 0 %}  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endif %}
