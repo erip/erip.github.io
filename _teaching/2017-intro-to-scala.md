@@ -8,6 +8,8 @@ date: 2017-06-01
 location: "McLean, VA; Bedford, MA"
 ---
 
+An introductory professional course covering the Scala programming language.
+
 Objectives
 ==========
 

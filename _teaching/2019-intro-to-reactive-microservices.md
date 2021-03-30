@@ -8,6 +8,8 @@ date: 2019-06-01
 location: "McLean, VA; Bedford, MA; San Diego, CA"
 ---
 
+An intensive professional course covering the basics of domain-driven design, the reactive manifesto, and microservice design.
+
 Objectives
 ==========
 
