@@ -14,6 +14,7 @@ Education
 * B.S. in Computer Science, Ohio University, 2011-2015
 * B.S. in Electrical Engineering, Ohio University, 2011-2015
 * M.S. in Computational Linguistics, University of Washington, 2017-2019
+* PhD in Computer Science, University of Maryland, 2021-
 
 Work experience
 ======
