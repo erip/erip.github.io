@@ -20,6 +20,10 @@ Work experience
 ======
 * 2015-Present: Computational Linguist, [MITRE](https://www.mitre.org/)
 
+Fellowships and Awards
+======
+* 2021-2022: NIST PREP Fellowship
+
 {% if site.publications.size != 0 %}    
 Publications
 ======
