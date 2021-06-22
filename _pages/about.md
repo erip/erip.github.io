@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Uhhhh what am I supposed to write here?"
+title: "Hello from Elijah"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Elijah Rippeth (he/him). I'm a computational linguist interested in multilingual systems, but have primarily focused on machine translation.  
+My name is Elijah Rippeth (he/him). I'm first year (and #firstgen) PhD student at the University of Maryland in the Department of Computer Science and a computational linguist at the MITRE Corporation. My work focuses broadly on natural language processing, but with a focus on multilingual systems and machine translation.
